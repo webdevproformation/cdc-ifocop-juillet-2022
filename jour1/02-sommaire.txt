@@ -1,0 +1,30 @@
+Document word => minimum 20 pages => 45 pages 
+
+3 parties dans ce document 
+
+versions  de synthèse en 15 - 20 diapositives 
+
+I Présentation de l’auteur
+Qui êtes vous ? 
+
+
+II. Présentations du projet
+ L’entreprise
+ Présentation du site
+ Cible du site
+ Les entreprises concurrentes
+ Personas
+ Arborescence du site
+ Planning prévisionnel
+ WIREFRAME
+
+III. Développement du site
+ Langages et Framework
+ Modèle relationnel Base de
+données
+ Architecture code source
+ Sécurité
+ IV. Le référencement naturel
+ V. Mise en ligne et hébergement
+ VI. Design et Evolutions possibles
+ VII. Remerciement
