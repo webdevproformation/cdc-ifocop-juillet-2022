@@ -17,3 +17,5 @@ client ET le prestataire
 => faire un site ecommerce (Wordpress + WooCommerce) => (à vérifier avec Sandrine)
 
 
+modification
+
