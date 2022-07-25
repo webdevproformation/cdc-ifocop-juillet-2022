@@ -67,3 +67,23 @@ planning
 
 maquette 
 
+Question à se poser pour faire un site internet ?
+
+type de site 
+- vitrine
+- e commerce
+- application
+
+logo / couleur / texte / image (contenu)
+lorem ipsum 
+
+
+Technique html css js <====> contenu texte image vidéo 
+
+Développeur 
+Graphiste 
+Community Manager 
+
+
+
+
