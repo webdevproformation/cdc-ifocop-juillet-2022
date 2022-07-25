@@ -16,7 +16,54 @@ client ET le prestataire
 
 => faire un site ecommerce (Wordpress + WooCommerce) => (à vérifier avec Sandrine)
 
+codeur.com 
+malt.com 
 
-modification
-toto
+
+=> site internet FACTICE 
+site internet / catalogue / moyen de paiement 
+FACTICE 
+
+---------------------------
+
+petite structure => mail 
+
+=> devis => étapes + temps => nb jours x tjm (taux journalier)
+
+=> 200 € => 1000€ 
+
+Grandes sociétés => cahier des charges 
+
+=> 10 000 - 30 000 => cahier des charges 
+
+-----------------
+
+1 etudiant = 1 site 
+
+=> définir les tâches à faire 
+=> front 
+=> back 
+
+=> méthode de gestion => SCRUM 
+=> SCRUM (méthodologie de gestion de projet informatique)
+
+-----------------
+
+FACTICE :
+
+=> si vous avez un projet de e commerce pendant le stage 
+=> j' ai déjà un projet en tête => mettre en oeuvre => oui 
+
+=> site ecommerce pour un société qui vend des fleurs 
+
+
+----------------------
+
+dans le cahier des charges => Charte graphique 
+couleur 
+police de caractères 
+
+planning 
+
+maquette 
 
