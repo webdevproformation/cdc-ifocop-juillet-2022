@@ -1,5 +1,4 @@
 Document word => minimum 20 pages => 45 pages 
-
 3 parties dans ce document 
 
 versions  de synthèse en 15 - 20 diapositives 
@@ -28,3 +27,10 @@ données
  V. Mise en ligne et hébergement
  VI. Design et Evolutions possibles
  VII. Remerciement
+
+copier le sommaire du document dans via le site internet 
+
+pour chaque du sommaire Titre 1 ou en titre 2
+
+saut de page
+
