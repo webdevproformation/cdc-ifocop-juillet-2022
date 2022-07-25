@@ -1,0 +1,19 @@
+rechercher des solutions répondre à un besoin 
+
+=> Appel d'Offres 
+- présenter
+- décrire ce dont on a besoin => le cahier des charges 
+
+--------
+
+https://github.com/webdevproformation/cdc-ifocop-juillet-2022
+
+--------
+
+document que l'on va vous demander pour le jury final 
+
+client ET le prestataire 
+
+=> faire un site ecommerce (Wordpress + WooCommerce) => (à vérifier avec Sandrine)
+
+
