@@ -81,7 +81,7 @@ lorem ipsum
 Technique html css js <====> contenu texte image vidéo 
 
 Développeur 
-Graphiste 
+Graphiste UI 
 Community Manager 
 
 
