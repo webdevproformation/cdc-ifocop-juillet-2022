@@ -1,0 +1,11 @@
+support : 
+
+https://formation.webdevpro.net/cdc/
+login : cdc
+password : cdc 
+
+--------------
+
+github :
+
+https://github.com/webdevproformation/cdc-ifocop-juillet-2022

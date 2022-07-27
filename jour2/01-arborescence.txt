@@ -1,0 +1,18 @@
+draw.io
+
+=> Visual studio code => installez extension 
+
+draw.io Integration (Henning Dietrichs)
+
+créer un nouveau fichier xxxxxxx.drawio
+
+Cas pratique :
+via Visual Studio Code et l'extension draw.io Integration  créer une arborescence 
+qui va présenter l'ensemble des pages d'une back office qui permet de gérer les aspects suivants :
+
+
+- page d'accueil du back office avec des indicateurs 
+- gérer le catalogue 
+- gérer les commandes 
+- gérer les profils gestionnaires
+- gérer les réclamations  
