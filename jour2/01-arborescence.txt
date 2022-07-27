@@ -10,9 +10,12 @@ Cas pratique :
 via Visual Studio Code et l'extension draw.io Integration  créer une arborescence 
 qui va présenter l'ensemble des pages d'une back office qui permet de gérer les aspects suivants :
 
-
 - page d'accueil du back office avec des indicateurs 
 - gérer le catalogue 
 - gérer les commandes 
 - gérer les profils gestionnaires
 - gérer les réclamations  
+
+=> github racine du dépot => Code > Zip 
+=> ligne de commande 
+git clone https://github.com/webdevproformation/cdc-ifocop-juillet-2022.git
